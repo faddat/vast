@@ -52,8 +52,11 @@ We are studying the idea of making our initial launch as an ICP canister, becaus
 Our intent is to provide for multiple implementations of Vast quite early on .  We feel that multi client is a necessity because multiclient networks are naturally more robust.
 
 / - readme and such
+
 /rust - rust implementation
+
 /v - vlang implementation
+
 /zig - zig implementation
 
 ....If you wish to impelment a vast client, JFDI!  Make a new folder and a pull request.
